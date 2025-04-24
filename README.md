@@ -51,9 +51,11 @@
 ## 📈 GitHub Stats
 
 
-![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhamabuallan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Contributions Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdhamAbuAllan&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamabuallan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamAbuAllan&layout=compact&theme=radical)
+
+![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhamabuallan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adhamabuallan&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
 
