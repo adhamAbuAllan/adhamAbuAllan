@@ -55,8 +55,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamabuallan&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhamabuallan&theme=radical&hide_border=false)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adhamabuallan&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
 
 
