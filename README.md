@@ -24,18 +24,19 @@
 
 ## 🧰 Tech Stack
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- AI integration in apps 🤖
 - Building passive-income apps 💡
 - Supabase auth and backend features 🔐
 
@@ -43,25 +44,28 @@
 
 ## 📌 Featured Projects
 
-- 🧠 **Atomic Habits Tracker App** – Helping users build good habits, inspired by James Clear’s book.
 - 🏘️ **Apartment Listings App** – Custom filtering, favorites, image syncing, and owner-specific listings.
-- ⌨️ **Keyboard Theme App** – Users customize keyboard themes dynamically.
-- ✉️ **AI Message Generator** – Helps write professional messages with tone/style options.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhamabuallan&show_icons=true&theme=radical)
+
+![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhamabuallan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamabuallan&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhamabuallan&theme=radical&hide_border=false)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adhamabuallan&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
+
 
 ---
 
 ## 📬 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 Email: adham@example.com  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- [LinkedIn](www.linkedin.com/in/adham-abu-allan-38b02a1b9)  
+- 📧 Email:adhamallan4@gmail.com 
 
 ---
 
