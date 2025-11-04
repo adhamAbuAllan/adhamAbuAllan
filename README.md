@@ -64,7 +64,9 @@
 
 ## 📬 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/adham-abu-allan-38b02a1b9)  
+- [LinkedIn](www.linkedin.com/in/adham-abu-allan-38b02a1b9) 
+- [Instagram](https://www.instagram.com/adham_abu_allan) 
+
 - 📧 Email:adhamallan4@gmail.com 
 
 ---
